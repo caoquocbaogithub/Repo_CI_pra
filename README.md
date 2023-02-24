@@ -1,2 +1,1 @@
-# Repo_CI_pra
-readme branch B
+Edited branch_B locally
